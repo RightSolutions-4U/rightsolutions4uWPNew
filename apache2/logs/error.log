@@ -1,0 +1,31 @@
+[Fri Jan 14 23:37:41.655353 2022] [ssl:warn] [pid 19364:tid 648] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 23:37:41.758470 2022] [ssl:warn] [pid 19364:tid 648] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 23:37:42.193617 2022] [mpm_winnt:notice] [pid 19364:tid 648] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.21 configured -- resuming normal operations
+[Fri Jan 14 23:37:42.193617 2022] [mpm_winnt:notice] [pid 19364:tid 648] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Jan 14 23:37:42.193617 2022] [core:notice] [pid 19364:tid 648] AH00094: Command line: 'D:\\RightSolutions4uWP\\apache2\\bin\\httpd.exe -d D:/RightSolutions4uWP/apache2 -f D:\\RightSolutions4uWP\\apache2\\conf\\httpd.conf'
+[Fri Jan 14 23:37:42.197615 2022] [mpm_winnt:notice] [pid 19364:tid 648] AH00418: Parent: Created child process 14016
+[Fri Jan 14 23:37:42.907537 2022] [ssl:warn] [pid 14016:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 23:37:42.984786 2022] [ssl:warn] [pid 14016:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 23:37:43.012938 2022] [mpm_winnt:notice] [pid 14016:tid 556] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 14 23:37:52.853335 2022] [mpm_winnt:notice] [pid 19364:tid 648] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 14 23:37:54.880109 2022] [mpm_winnt:notice] [pid 14016:tid 556] AH00364: Child: All worker threads have exited.
+[Fri Jan 14 23:37:54.966093 2022] [mpm_winnt:notice] [pid 19364:tid 648] AH00430: Parent: Child process 14016 exited successfully.
+[Fri Jan 14 23:37:57.371950 2022] [ssl:warn] [pid 7848:tid 648] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 23:37:57.480698 2022] [ssl:warn] [pid 7848:tid 648] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 23:37:57.519156 2022] [mpm_winnt:notice] [pid 7848:tid 648] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.21 configured -- resuming normal operations
+[Fri Jan 14 23:37:57.519156 2022] [mpm_winnt:notice] [pid 7848:tid 648] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Jan 14 23:37:57.519156 2022] [core:notice] [pid 7848:tid 648] AH00094: Command line: 'D:\\RightSolutions4uWP\\apache2\\bin\\httpd.exe -d D:/RightSolutions4uWP/apache2 -f D:\\RightSolutions4uWP\\apache2\\conf\\httpd.conf'
+[Fri Jan 14 23:37:57.523027 2022] [mpm_winnt:notice] [pid 7848:tid 648] AH00418: Parent: Created child process 7720
+[Fri Jan 14 23:37:58.263961 2022] [ssl:warn] [pid 7720:tid 596] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 23:37:58.351456 2022] [ssl:warn] [pid 7720:tid 596] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 23:37:58.379782 2022] [mpm_winnt:notice] [pid 7720:tid 596] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 14 23:38:23.898771 2022] [mpm_winnt:notice] [pid 7848:tid 648] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 14 23:38:25.921186 2022] [mpm_winnt:notice] [pid 7720:tid 596] AH00364: Child: All worker threads have exited.
+[Fri Jan 14 23:38:25.958817 2022] [mpm_winnt:notice] [pid 7848:tid 648] AH00430: Parent: Child process 7720 exited successfully.
+[Fri Jan 14 23:38:28.286925 2022] [ssl:warn] [pid 18724:tid 668] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 23:38:28.511183 2022] [ssl:warn] [pid 18724:tid 668] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 23:38:28.535169 2022] [mpm_winnt:notice] [pid 18724:tid 668] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.4.21 configured -- resuming normal operations
+[Fri Jan 14 23:38:28.535169 2022] [mpm_winnt:notice] [pid 18724:tid 668] AH00456: Apache Lounge VC15 Server built: May 26 2021 14:28:02
+[Fri Jan 14 23:38:28.535169 2022] [core:notice] [pid 18724:tid 668] AH00094: Command line: 'D:\\RightSolutions4uWP\\apache2\\bin\\httpd.exe -d D:/RightSolutions4uWP/apache2 -f D:\\RightSolutions4uWP\\apache2\\conf\\httpd.conf'
+[Fri Jan 14 23:38:28.539331 2022] [mpm_winnt:notice] [pid 18724:tid 668] AH00418: Parent: Created child process 12084
+[Fri Jan 14 23:38:29.264916 2022] [ssl:warn] [pid 12084:tid 572] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name

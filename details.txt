@@ -1,0 +1,9 @@
+rightsolutions4u
+mohtashim1974@outlook.com
+admin
+admin123
+81
+444
+3309
+http://127.0.0.1:81/wordpress/
+http://127.0.0.1:81/wordpress/wp-login.php
